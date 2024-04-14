@@ -1,0 +1,16 @@
+
+MAS warehouse {
+
+	infrastructure: Centralised
+
+	environment: env.WarehouseEnv(gui)
+
+	agents:
+		robot robot;
+		robot1 robot;
+		delivery;
+		truck;
+
+	aslSourcePath:
+		"src/main/asl";
+}
