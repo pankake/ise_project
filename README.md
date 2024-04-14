@@ -1,6 +1,6 @@
 System Requirements
-JDK (Java Development Kit) version 1.8 or higher
-Gradle version 7.0.2 or higher
+JDK (Java Development Kit) version 1.8
+Gradle version 7.0.2
 
 Navigate to the project's main directory:
 cd ise_project
