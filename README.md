@@ -9,5 +9,5 @@ Build the project using Gradle:
 ./gradlew build
 
 Run the warehouse simulation using Gradle:
-./gradlew runWarehouseMas
+./gradlew runwarehousemas
 
